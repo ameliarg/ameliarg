@@ -5,7 +5,7 @@
 
 ---
 
-🌟 **About Me**
+**About Me**
 
 - Bachelor’s in Computer Science from Liberty University
 - Passionate about **cybersecurity** — researched **OWASP Top 10** for my capstone  
@@ -15,7 +15,7 @@
 
 ---
 
-🛠️ **Tech Skills**
+ **Tech Skills**
 
 - **Languages:** C++, Java, Python, SQL
 - **Platforms:** Linux, macOS
@@ -27,14 +27,14 @@
 
 ---
 
-📫 **Contact**
+ **Contact**
 
 - Email: [amelia_r_gannon@mac.com](mailto:amelia_r_gannon@mac.com)
 - LinkedIn: [linkedin.com/in/amelia-gannon-658462293](https://www.linkedin.com/in/amelia-gannon-658462293)
 
 ---
 
-💬 **Fun Fact / Motto**
+**Fun Fact / Motto**
 
 > “If it’s meant to be then it will be”
 
