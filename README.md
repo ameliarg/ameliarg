@@ -45,13 +45,11 @@
 ## ✨ Featured Projects
 - 🎵 **Melia Music Player** — a cute, sparkly Electron desktop music player with a local playlist and GIF art  
   `Electron` · `HTML/CSS/JS`  
-  <!-- Link your repo here -->
-  <!-- Example: https://github.com/<your-username>/melia-music-player -->
+
 
 - 🐣 **TinyGotchi** — a Tamagotchi-style terminal pet (C++ & Python versions)  
   `C++17` · `Python 3` · `Terminal UI`  
-  <!-- Link your repo(s) here -->
-  <!-- Example: https://github.com/<your-username>/tinygotchi -->
+
 
 
 <p>
