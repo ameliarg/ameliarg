@@ -42,19 +42,11 @@
 
 ---
 
-## ✨ Featured Projects
-- 🎵 **Melia Music Player** — a cute, sparkly Electron desktop music player with a local playlist and GIF art  
-  `Electron` · `HTML/CSS/JS`  
-
-
-- 🐣 **TinyGotchi** — a Tamagotchi-style terminal pet (C++ & Python versions)  
-  `C++17` · `Python 3` · `Terminal UI`  
-
-Web Risk Scanner (Python)
-An educational, single-file Python scanner that performs:
-- **Concurrent TCP port checks** on a sensible default list  
-- **TLS inspection** (protocol, cipher, cert subject/issuer, SANs, expiry)  
-- **HTTP audit** (status, headers, cookie flags, directory listing, allowed methods, server banner)
+## | Program                   | Stack                         | What it does                                                                                                                                                                                | Links                                                                                                                                                                                      |
+| ------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 🔎 **Web Risk Scanner**   | `Python 3.8+` · `CLI`         | Fast, educational recon: concurrent port checks ⚓, TLS inspection 🔐 (protocol/cipher/cert expiry), HTTP audit 🍪 (security headers, cookie flags, allowed methods), optional JSON reports. | [Repo](https://github.com/<your-username>/<scanner-repo>) · ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)                                                                     |
+| 🎀 **Melia Music Player** | `Electron 27` · `HTML/CSS/JS` | Cute desktop jukebox with sparkly UI ✨, GIF art, local playlist, play/pause/skip, seek bar. Packaged with electron-builder.                                                                 | [Repo](https://github.com/<your-username>/melia-music-player) · ![Electron](https://img.shields.io/badge/Electron-27.x-2ea44f)                                                             |
+| 🐣 **TinyGotchi**         | `C++17` · `Python`            | Terminal Tamagotchi—hunger, happiness, energy, cleanliness, health; random sickness, aging, and simple actions.                                                                             | [C++](https://github.com/<your-username>/tinygotchi-cpp) · [Python](https://github.com/<your-username>/tinygotchi-py) · ![Terminal](https://img.shields.io/badge/runs-in%20terminal-black) |
 
 ---
 
