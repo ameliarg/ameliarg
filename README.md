@@ -50,6 +50,11 @@
 - 🐣 **TinyGotchi** — a Tamagotchi-style terminal pet (C++ & Python versions)  
   `C++17` · `Python 3` · `Terminal UI`  
 
+Web Risk Scanner (Python)
+An educational, single-file Python scanner that performs:
+- **Concurrent TCP port checks** on a sensible default list  
+- **TLS inspection** (protocol, cipher, cert subject/issuer, SANs, expiry)  
+- **HTTP audit** (status, headers, cookie flags, directory listing, allowed methods, server banner)
 
 ---
 
