@@ -42,11 +42,21 @@
 
 ---
 
-## | Program                   | Stack                         | What it does                                                                                                                                                                                | Links                                                                                                                                                                                      |
-| ------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 🔎 **Web Risk Scanner**   | `Python 3.8+` · `CLI`         | Fast, educational recon: concurrent port checks ⚓, TLS inspection 🔐 (protocol/cipher/cert expiry), HTTP audit 🍪 (security headers, cookie flags, allowed methods), optional JSON reports. | [Repo](https://github.com/<your-username>/<scanner-repo>) · ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)                                                                     |
-| 🎀 **Melia Music Player** | `Electron 27` · `HTML/CSS/JS` | Cute desktop jukebox with sparkly UI ✨, GIF art, local playlist, play/pause/skip, seek bar. Packaged with electron-builder.                                                                 | [Repo](https://github.com/<your-username>/melia-music-player) · ![Electron](https://img.shields.io/badge/Electron-27.x-2ea44f)                                                             |
-| 🐣 **TinyGotchi**         | `C++17` · `Python`            | Terminal Tamagotchi—hunger, happiness, energy, cleanliness, health; random sickness, aging, and simple actions.                                                                             | [C++](https://github.com/<your-username>/tinygotchi-cpp) · [Python](https://github.com/<your-username>/tinygotchi-py) · ![Terminal](https://img.shields.io/badge/runs-in%20terminal-black) |
+## ✨ Featured Projects
+- 🎵 **Melia Music Player** — a cute, sparkly Electron desktop music player with a local playlist and GIF art  
+  `Electron` · `HTML/CSS/JS`  
+  <!-- Link your repo here -->
+  <!-- Example: https://github.com/<your-username>/melia-music-player -->
+
+- 🐣 **TinyGotchi** — a Tamagotchi-style terminal pet (C++ & Python versions)  
+  `C++17` · `Python 3` · `Terminal UI`  
+  <!-- Link your repo(s) here -->
+  <!-- Example: https://github.com/<your-username>/tinygotchi -->
+
+-  **Web Risk Scanner** — Python CLI for quick recon: concurrent port checks, TLS inspection (protocol/cipher/cert expiry), and HTTP audits (security headers, cookie flags, dir index, allowed methods) with JSON reports  
+  `Python 3` · `Sockets` · `TLS/SSL` · `Requests/urllib` · `JSON`  
+  <!-- Link your repo here -->
+  <!-- Example: https://github.com/<your-username>/web-risk-scanner -->
 
 ---
 
