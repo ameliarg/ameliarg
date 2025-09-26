@@ -51,12 +51,6 @@
   `C++17` · `Python 3` · `Terminal UI`  
 
 
-
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&theme=radical" alt="GitHub Streak">
-</p>
-
 ---
 
 ## Connect!
